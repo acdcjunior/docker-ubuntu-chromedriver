@@ -2,7 +2,7 @@
 # Ubuntu-based chromedriver docker
 #
 
-FROM acdcjunior/docker-ubuntu-xvfb-vnc-base
+FROM acdcjunior/ubuntu-xvfb-vnc-base
 
 # Based on https://github.com/allthings/chromedriver with minor modifications: the base image (now ubuntu) and chromedriver package name (chromium-chromedriver now)
 
